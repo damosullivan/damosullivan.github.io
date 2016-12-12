@@ -24,6 +24,8 @@ url: "http://www.damienosullivan.ie" # the base hostname & protocol for your sit
 twitter_username: damosullivan
 github_username:  damosullivan
 google_analytics: UA-88843212-1
+disqus:
+  shortname: www-damienosullivan-ie
 
 # Build settings
 markdown: kramdown

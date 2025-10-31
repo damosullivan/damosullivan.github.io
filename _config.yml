@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
+
 title: some thoughts.
-description: sharing the random thoughts I sometimes have
+description: the random thoughts I sometimes have
 author: Damien O'Sullivan
+
+show_downloads: false
 github:
   is_user_page: false

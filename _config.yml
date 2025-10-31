@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: thoughts.
+description: random thoughts
 author: Damien
 github:
   is_user_page: false

@@ -1,8 +1,5 @@
-# theme: jekyll-theme-minimal
-remote_theme: abhinavs/moonwalk
+theme: jekyll-theme-minimal
 title: thoughts.
 author: Damien
 github:
   is_user_page: false
-theme_config:
-  appearance: dark

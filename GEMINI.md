@@ -1,4 +1,4 @@
-layout: page
+layout: post
 title: "I wonder if we could inject something into Gemini?"
 permalink: /gemini
 
